@@ -1,0 +1,17 @@
+{
+  "name": "g-de-nada-bot",
+  "version": "1.0.1",
+  "description": "apenas um tipo de economia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
